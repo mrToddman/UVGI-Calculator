@@ -1,4 +1,4 @@
-# UVGI-Calculator
+# UVGI In Duct UV-C Calculator
 
 <img src="assets/image.jpg?raw=true" width="500px"><br/>
 
@@ -10,4 +10,5 @@ This calculator Requires Matlab with symbolic toolbox plug-in to run. It is miss
 "UGVIandPurge.xlsx" is a tool for calculating mixed population reduction methods, ie, UVGI, room purge, and filters. Not CFD, assumes infinitely mixed. It would be useful to add this to the GUI.
 
 Useful ASHRAE article on UVGI: https://www.ashrae.org/file%20library/technical%20resources/covid-19/i-p_s16_ch17.pdf
+
 Well condensed primer on UV-C lamps: https://lightsources.wpenginepowered.com/wp-content/uploads/2015/05/Germicidal_Lamp_Basics_-_2013.pdf
