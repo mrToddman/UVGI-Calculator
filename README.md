@@ -2,7 +2,7 @@
 
 <img src="assets/image.jpg?raw=true" width="500px"><br/>
 
-This calculator Requires Matlab with symbolic toolbox plug-in to run. It is missing a GUI and the code is a little rough. The m scripts calculate UV dose, and reduction of target biologically active effluents flowing in water or air inline, axially to a UVGI lamp array. Both a square duct or round tube can be modeled. The lamp array is customizable and automatically spaced n rows by m columns.
+This calculator Requires Matlab with symbolic toolbox plug-in to run. It is missing a GUI and the code is a little rough. The m scripts calculate UV dose, and reduction of target biologically active effluents flowing in water or air inline to a UVGI lamp array. Both a square duct or round tube can be modeled. The lamp array is customizable and automatically spaced n rows by m columns.
 
 “UVGIrectangularDuct.m” is the calculator for a lamp array in a rectangular duct.
 
